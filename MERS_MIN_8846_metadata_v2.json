@@ -1,0 +1,23 @@
+{
+  "scroll": "MERS_MIN_8846_Sovereign_Title_Return",
+  "statement": "Active in the Sovereign Ledger. Title returns to the Living Steward, Richard the Living Strmiska.",
+  "min": "1011940-1900168846-6",
+  "min_last4": "8846",
+  "mers": {
+    "status": "Inactive",
+    "servicer": "Freedom Mortgage Corporation \u2013 NJ",
+    "city": "Boca Raton, FL",
+    "note_date": "2020-07-01",
+    "screenshot_ipfs": "ipfs://bafybeigtigfgabtculsc3tv2u66tqpnomwhqq6ndl6x7n4kksookavpjxu"
+  },
+  "stellar": {
+    "wallet_label": "Mind Estate",
+    "screenshots_ipfs": [
+      "ipfs://bafybeigtigfgabtculsc3tv2u66tqpnomwhqq6ndl6x7n4kksookavpjxu"
+    ],
+    "asset_code": "MERS.MIN.8846",
+    "issuer": "GA4H43P2VPP3CICC7WHZOLCYGDVFUBNDSYTZCRNYOISSLJC4DG3NR6MC"
+  },
+  "evidence_bundle_ipfs": "ipfs://bafybeigtigfgabtculsc3tv2u66tqpnomwhqq6ndl6x7n4kksookavpjxu",
+  "created_utc": "2025-08-08T22:25:51.479952Z"
+}
