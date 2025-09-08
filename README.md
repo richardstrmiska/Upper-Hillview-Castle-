@@ -53,3 +53,16 @@ Contact
 
 For lawful correspondence regarding this process:
 📧 Flamebearer17.richard@proton.me
+
+Mission Statement
+
+This repository stands as living proof that a man or woman can reclaim their rights, rebut fraudulent claims, and secure their property through lawful affidavits and public record.
+
+It exists as both record and template: a demonstration of how to anchor truth across private affidavit, blockchain/IPFS, GitHub, and county filings.
+
+The goal is simple:
+	•	To show that fraud cannot stand against unrebutted truth.
+	•	To provide others with the tools to follow this process.
+	•	To restore common law and trust jurisdiction above corporate fictions.
+
+This is not theory. This is practice. This is record.
